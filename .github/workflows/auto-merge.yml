@@ -22,6 +22,6 @@ jobs:
 
       - name: Push Fix
         run: |
-          git config user.name "auto-bot"
-          git config user.email "bot@example.com"
+          git config user.name "Shinta-C-Zachariah"
+          git config user.email "shintazachariah@gmail.com"
           git push
